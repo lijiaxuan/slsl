@@ -15,14 +15,14 @@ BASEPORT = bus_ip[bus_data[0]['bus_id'] - 1][1]
 pid = open('pid','w')
 pid.write(str(os.getpid()))
 pid.close()
-def write2xml():
-    doc = parse("config.xml")
-    for node in doc.getElementsByTagName("Va"):
-        value_str = node.getAttribute("value")
-        if value_str.find("/med/")>0:
-            print value_str.replace('/opt/imap/',"/opt/oss/")
-        else:
-            print value_str
+# def write2xml():
+#     doc = parse("config.xml")
+#     for node in doc.getElementsByTagName("Va"):
+#         value_str = node.getAttribute("value")
+#         if value_str.find("/med/")>0:
+#             print value_str.replace('/opt/imap/',"/opt/oss/")
+#         else:
+#             print value_str
 class Bus_protocol(Protocol):
     def dataReceived(self, data):
         global bus_data

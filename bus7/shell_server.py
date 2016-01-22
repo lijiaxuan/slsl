@@ -12,11 +12,11 @@ class shell_protocol(Protocol):
                 p = open(base_path  + '/pid','r')
                 pid = p.read(-1)
                 p.close()
-                id = commands.getoutput('kill '+pid)
+                id = commands.getoutput('sudo kill '+pid)
                 print 'print restart'
-                subprocess.Popen('python ' + base_path + '/bus.py',shell=True)
+                subprocess.Popen('sudo python ' + base_path + '/bus.py',shell=True)
             except:
-                subprocess.Popen('python ' + base_path + '/bus.py',shell=True)
+                subprocess.Popen('sudo python ' + base_path + '/bus.py',shell=True)
                 pass
 class shell_Factory(ServerFactory):
     protocol = shell_protocol
