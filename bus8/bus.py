@@ -7,22 +7,14 @@ from sensor_server import Sensor_Factory
 import struct
 import numpy as np
 import os
-from xml.dom.minidom import parse, parseString
-
+from write_xml import writexml
 
 BASEPORT = bus_ip[bus_data[0]['bus_id'] - 1][1]
-
+base_path=os.path.dirname(os.path.abspath(__file__))
 pid = open('pid','w')
 pid.write(str(os.getpid()))
 pid.close()
-# def write2xml():
-#     doc = parse("config.xml")
-#     for node in doc.getElementsByTagName("Va"):
-#         value_str = node.getAttribute("value")
-#         if value_str.find("/med/")>0:
-#             print value_str.replace('/opt/imap/',"/opt/oss/")
-#         else:
-#             print value_str
+
 class Bus_protocol(Protocol):
     def dataReceived(self, data):
         global bus_data
@@ -31,7 +23,8 @@ class Bus_protocol(Protocol):
         elif len(data) == 96:
             if bus_data['status'] == 1:
                 bus_data = np.frombuffer(data,dtype=bustype)
-                f = open('data','a+')
+                writexml(bus_data)
+                f = open(base_path + 'data','a+')
                 f.write(str(bus_data) + '\r\n')
                 f.close()
     def connectionMade(self):

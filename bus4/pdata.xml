@@ -1,0 +1,297 @@
+<?xml version="1.0" ?><!-- Embedded network server polled data --><EIG_DATA>
+	<EIG_SYSTEM>
+
+	</EIG_SYSTEM>
+	<DEVICE_1>
+		<DEV_NAME>[~DEVICE_LABEL]</DEV_NAME>
+		<DEV_TYPE>Nexus 1500</DEV_TYPE>
+		<DEV_PARENT>0</DEV_PARENT>
+		<DEV_INFO_STATUS>1</DEV_INFO_STATUS>
+		<item D_LABEL="Inst Van" D_REF="" D_UID="1_1" D_VALUE="0"/>
+		<item D_LABEL="Inst Vbn" D_REF="" D_UID="1_2" D_VALUE="0"/>
+		<item D_LABEL="Inst Vcn" D_REF="" D_UID="1_3" D_VALUE="0"/>
+		<item D_LABEL="Inst Vab" D_REF="" D_UID="1_4" D_VALUE="0"/>
+		<item D_LABEL="Inst Vbc" D_REF="" D_UID="1_5" D_VALUE="0"/>
+		<item D_LABEL="Inst Vca" D_REF="" D_UID="1_6" D_VALUE="0"/>
+		<item D_LABEL="Inst Freq." D_REF="" D_UID="1_7" D_VALUE="0"/>
+		<item D_LABEL="Inst Ia" D_REF="" D_UID="1_8" D_VALUE="0"/>
+		<item D_LABEL="Inst Ib" D_REF="" D_UID="1_9" D_VALUE="0"/>
+		<item D_LABEL="Inst Ic" D_REF="" D_UID="1_10" D_VALUE="0"/>
+		<item D_LABEL="Inst Inc" D_REF="" D_UID="1_11" D_VALUE="0"/>
+		<item D_LABEL="Max Van" D_REF="" D_UID="1_12" D_VALUE="0"/>
+		<item D_LABEL="Max Vbn" D_REF="" D_UID="1_13" D_VALUE="0"/>
+		<item D_LABEL="Max Vcn" D_REF="" D_UID="1_14" D_VALUE="0"/>
+		<item D_LABEL="Max Vab" D_REF="" D_UID="1_15" D_VALUE="0"/>
+		<item D_LABEL="Max Vbc" D_REF="" D_UID="1_16" D_VALUE="0"/>
+		<item D_LABEL="Max Vca" D_REF="" D_UID="1_17" D_VALUE="0"/>
+		<item D_LABEL="Max Freq." D_REF="" D_UID="1_18" D_VALUE="0"/>
+		<item D_LABEL="Max Ia" D_REF="" D_UID="1_19" D_VALUE="0"/>
+		<item D_LABEL="Max Ib" D_REF="" D_UID="1_20" D_VALUE="0"/>
+		<item D_LABEL="Max Ic" D_REF="" D_UID="1_21" D_VALUE="0"/>
+		<item D_LABEL="Max Inc" D_REF="" D_UID="1_22" D_VALUE="0"/>
+		<item D_LABEL="Min Van" D_REF="" D_UID="1_23" D_VALUE="0"/>
+		<item D_LABEL="Min Vbn" D_REF="" D_UID="1_24" D_VALUE="0"/>
+		<item D_LABEL="Min Vcn" D_REF="" D_UID="1_25" D_VALUE="0"/>
+		<item D_LABEL="Min Vab" D_REF="" D_UID="1_26" D_VALUE="0"/>
+		<item D_LABEL="Min Vbc" D_REF="" D_UID="1_27" D_VALUE="0"/>
+		<item D_LABEL="Min Vca" D_REF="" D_UID="1_28" D_VALUE="0"/>
+		<item D_LABEL="Min Freq." D_REF="" D_UID="1_29" D_VALUE="0"/>
+		<item D_LABEL="Min Ia" D_REF="" D_UID="1_30" D_VALUE="0"/>
+		<item D_LABEL="Min Ib" D_REF="" D_UID="1_31" D_VALUE="0"/>
+		<item D_LABEL="Min Ic" D_REF="" D_UID="1_32" D_VALUE="0"/>
+		<item D_LABEL="Min Inc" D_REF="" D_UID="1_33" D_VALUE="0"/>
+		<item D_LABEL="Last Max Reset" D_REF="" D_UID="1_34" D_VALUE="0"/>
+		<item D_LABEL="Device Date/Time" D_REF="" D_UID="1_35" D_VALUE="0"/>
+		<item D_LABEL="Meter Designation" D_REF="" D_UID="1_36" D_VALUE="0"/>
+		<item D_LABEL="Inst Vae" D_REF="" D_UID="1_37" D_VALUE="0"/>
+		<item D_LABEL="Inst Vbe" D_REF="" D_UID="1_38" D_VALUE="0"/>
+		<item D_LABEL="Inst Vce" D_REF="" D_UID="1_39" D_VALUE="0"/>
+		<item D_LABEL="Inst Vne" D_REF="" D_UID="1_40" D_VALUE="0"/>
+		<item D_LABEL="Inst Inm" D_REF="" D_UID="1_41" D_VALUE="0"/>
+		<item D_LABEL="Inst Max Inm" D_REF="" D_UID="1_42" D_VALUE="0"/>
+		<item D_LABEL="Inst Min Inm" D_REF="" D_UID="1_43" D_VALUE="0"/>
+	</DEVICE_1>
+
+	<DEVICE_2>
+		<DEV_NAME>N/A</DEV_NAME>
+		<DEV_TYPE/>
+		<DEV_PARENT>1</DEV_PARENT>
+		<DEV_INFO_STATUS>0</DEV_INFO_STATUS>
+		<item D_LABEL="Inst Watt" D_REF="" D_UID="2_1" D_VALUE="496.19 k"/>
+		<item D_LABEL="Inst VAR" D_REF="" D_UID="2_2" D_VALUE="-26.60 k"/>
+		<item D_LABEL="Inst VA" D_REF="" D_UID="2_3" D_VALUE="497.01 k"/>
+		<item D_LABEL="Inst PF" D_REF="" D_UID="2_4" D_VALUE="-0.998 Lead"/>
+		<item D_LABEL="Thermal Avg Watt" D_REF="" D_UID="2_5" D_VALUE="442.83 k"/>
+		<item D_LABEL="Thermal Avg VAR" D_REF="" D_UID="2_6" D_VALUE="-18.38 k"/>
+		<item D_LABEL="Thermal Avg VA" D_REF="" D_UID="2_7" D_VALUE="443.45 k"/>
+		<item D_LABEL="Thermal Avg PF" D_REF="" D_UID="2_8" D_VALUE="-0.999 Lead"/>
+		<item D_LABEL="Block Window Avg Watt" D_REF="" D_UID="2_9" D_VALUE="440.07 k"/>
+		<item D_LABEL="Block Window Avg VAR" D_REF="" D_UID="2_10" D_VALUE="-18.70 k"/>
+		<item D_LABEL="Block Window Avg VA" D_REF="" D_UID="2_11" D_VALUE="440.66 k"/>
+		<item D_LABEL="Rolling Window Avg Watt" D_REF="" D_UID="2_12" D_VALUE="442.12 k"/>
+		<item D_LABEL="Rolling Window Avg VAR" D_REF="" D_UID="2_13" D_VALUE="-18.74 k"/>
+		<item D_LABEL="Rolling Window Avg VA" D_REF="" D_UID="2_14" D_VALUE="442.72 k"/>
+		<item D_LABEL="Predicted Window Avg Watt" D_REF="" D_UID="2_15" D_VALUE="440.91 k"/>
+		<item D_LABEL="Predicted Window Avg VAR" D_REF="" D_UID="2_16" D_VALUE="-18.57 k"/>
+		<item D_LABEL="Predicted Window Avg VA" D_REF="" D_UID="2_17" D_VALUE="441.51 k"/>
+		<item D_LABEL="Thermal Avg Max +Watt" D_REF="" D_UID="2_18" D_VALUE="90.90 M"/>
+		<item D_LABEL="Thermal Avg Max -Watt" D_REF="" D_UID="2_19" D_VALUE="0.00"/>
+		<item D_LABEL="Thermal Avg Coin. Max +Watt" D_REF="" D_UID="2_20" D_VALUE="-8.18 M"/>
+		<item D_LABEL="Thermal Avg Coin. Max -Watt" D_REF="" D_UID="2_21" D_VALUE="0.00"/>
+		<item D_LABEL="Thermal Avg Max +VAR" D_REF="" D_UID="2_22" D_VALUE="1.47 M"/>
+		<item D_LABEL="Thermal Avg Max -VAR" D_REF="" D_UID="2_23" D_VALUE="-10.42 M"/>
+		<item D_LABEL="Block Win. Avg Max +Watt" D_REF="" D_UID="2_24" D_VALUE="88.46 M"/>
+		<item D_LABEL="Block Win. Avg Max -Watt" D_REF="" D_UID="2_25" D_VALUE="0.00"/>
+		<item D_LABEL="Block Win. Avg Coin. Max +Watt" D_REF="" D_UID="2_26" D_VALUE="-9.35 M"/>
+		<item D_LABEL="Block Win. Avg Coin. Max -Watt" D_REF="" D_UID="2_27" D_VALUE="0.00"/>
+		<item D_LABEL="Block Win. Avg Max +VAR" D_REF="" D_UID="2_28" D_VALUE="93.93 k"/>
+		<item D_LABEL="Block Win. Avg Max -VAR" D_REF="" D_UID="2_29" D_VALUE="-9.35 M"/>
+		<item D_LABEL="Rolling Win. Avg Max +Watt" D_REF="" D_UID="2_30" D_VALUE="85.62 M"/>
+		<item D_LABEL="Rolling Win. Avg Max -Watt" D_REF="" D_UID="2_31" D_VALUE="0.00"/>
+		<item D_LABEL="Rolling Win. Avg Coin. Max +Watt" D_REF="" D_UID="2_32" D_VALUE="-775.26 k"/>
+		<item D_LABEL="Rolling Win. Avg Coin. Max -Watt" D_REF="" D_UID="2_33" D_VALUE="0.00"/>
+		<item D_LABEL="Rolling Win. Avg Max +VAR" D_REF="" D_UID="2_34" D_VALUE="0.00"/>
+		<item D_LABEL="Rolling Win. Avg Max -VAR" D_REF="" D_UID="2_35" D_VALUE="-2.92 M"/>
+		<item D_LABEL="Watt Hour (Q1+4)" D_REF="" D_UID="2_36" D_VALUE="1710791 k"/>
+		<item D_LABEL="Watt Hour (Q2+3)" D_REF="" D_UID="2_37" D_VALUE="0 k"/>
+		<item D_LABEL="VAR Hour (Q1+2)" D_REF="" D_UID="2_38" D_VALUE="8585 k"/>
+		<item D_LABEL="VAR Hour (Q3+4)" D_REF="" D_UID="2_39" D_VALUE="68457 k"/>
+		<item D_LABEL="VA Hour" D_REF="" D_UID="2_40" D_VALUE="1712890 k"/>
+		<item D_LABEL="Block Window Status" D_REF="" D_UID="2_41" D_VALUE="Available"/>
+		<item D_LABEL="Rolling/Pred Window Status" D_REF="" D_UID="2_42" D_VALUE="Available"/>
+		<item D_LABEL="Wh_Q14" D_REF="" D_UID="2_43" D_VALUE="710791.0 k"/>
+		<item D_LABEL="VAh1" D_REF="" D_UID="2_44" D_VALUE="165787.8 k"/>
+		<item D_LABEL="VARh1" D_REF="" D_UID="2_45" D_VALUE="008585.5 k"/>
+		<item D_LABEL="VAh4" D_REF="" D_UID="2_46" D_VALUE="547102.7 k"/>
+		<item D_LABEL="VARh4" D_REF="" D_UID="2_47" D_VALUE="068457.9 k"/>
+		<item D_LABEL="Wh_Q23" D_REF="" D_UID="2_48" D_VALUE="000000.0 k"/>
+		<item D_LABEL="VAh2" D_REF="" D_UID="2_49" D_VALUE="000000.0 k"/>
+		<item D_LABEL="VARh2" D_REF="" D_UID="2_50" D_VALUE="000000.0 k"/>
+		<item D_LABEL="VAh3" D_REF="" D_UID="2_51" D_VALUE="000000.0 k"/>
+		<item D_LABEL="VARh3" D_REF="" D_UID="2_52" D_VALUE="000000.0 k"/>
+	</DEVICE_2>
+
+	<DEVICE_3>
+		<DEV_NAME>N/A</DEV_NAME>
+		<DEV_TYPE/>
+		<DEV_PARENT>1</DEV_PARENT>
+		<DEV_INFO_STATUS>0</DEV_INFO_STATUS>
+		<item D_LABEL="Input Accum. 1" D_REF="" D_UID="3_1" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. 2" D_REF="" D_UID="3_2" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. 3" D_REF="" D_UID="3_3" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. 4" D_REF="" D_UID="3_4" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. 5" D_REF="" D_UID="3_5" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. 6" D_REF="" D_UID="3_6" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. 7" D_REF="" D_UID="3_7" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. 8" D_REF="" D_UID="3_8" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. Aggr. 1" D_REF="" D_UID="3_9" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. Aggr. 2" D_REF="" D_UID="3_10" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. Aggr. 3" D_REF="" D_UID="3_11" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. Aggr. 4" D_REF="" D_UID="3_12" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. 1" D_REF="" D_UID="3_13" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. 2" D_REF="" D_UID="3_14" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. 3" D_REF="" D_UID="3_15" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. 4" D_REF="" D_UID="3_16" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. 5" D_REF="" D_UID="3_17" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. 6" D_REF="" D_UID="3_18" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. 7" D_REF="" D_UID="3_19" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. 8" D_REF="" D_UID="3_20" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. Aggr. 1" D_REF="" D_UID="3_21" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. Aggr. 2" D_REF="" D_UID="3_22" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. Aggr. 3" D_REF="" D_UID="3_23" D_VALUE="0"/>
+		<item D_LABEL="Avg Input Accum. Aggr. 4" D_REF="" D_UID="3_24" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. 1" D_REF="" D_UID="3_25" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. 2" D_REF="" D_UID="3_26" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. 3" D_REF="" D_UID="3_27" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. 4" D_REF="" D_UID="3_28" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. 5" D_REF="" D_UID="3_29" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. 6" D_REF="" D_UID="3_30" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. 7" D_REF="" D_UID="3_31" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. 8" D_REF="" D_UID="3_32" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. Aggr. 1" D_REF="" D_UID="3_33" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. Aggr. 2" D_REF="" D_UID="3_34" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. Aggr. 3" D_REF="" D_UID="3_35" D_VALUE="0"/>
+		<item D_LABEL="Max Input Accum. Aggr. 4" D_REF="" D_UID="3_36" D_VALUE="0"/>
+		<item D_LABEL="Input Accum. 1 Time" D_REF="" D_UID="3_37" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. 2 Time" D_REF="" D_UID="3_38" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. 3 Time" D_REF="" D_UID="3_39" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. 4 Time" D_REF="" D_UID="3_40" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. 5 Time" D_REF="" D_UID="3_41" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. 6 Time" D_REF="" D_UID="3_42" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. 7 Time" D_REF="" D_UID="3_43" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. 8 Time" D_REF="" D_UID="3_44" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. Aggr. 1 Time" D_REF="" D_UID="3_45" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. Aggr. 2 Time" D_REF="" D_UID="3_46" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. Aggr. 3 Time" D_REF="" D_UID="3_47" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Input Accum. Aggr. 4 Time" D_REF="" D_UID="3_48" D_VALUE="2014S12S29 14S22S19"/>
+		<item D_LABEL="Nexus Watt Hour (Q1+4)" D_REF="" D_UID="3_49" D_VALUE="1 G"/>
+		<item D_LABEL="Int Input 1 Pulse Accm Label" D_REF="" D_UID="3_50" D_VALUE="Accumulator1    "/>
+		<item D_LABEL="Int Input 2 Pulse Accm Label" D_REF="" D_UID="3_51" D_VALUE="Accumulator2    "/>
+		<item D_LABEL="Int Input 3 Pulse Accm Label" D_REF="" D_UID="3_52" D_VALUE="Accumulator3    "/>
+		<item D_LABEL="Int Input 4 Pulse Accm Label" D_REF="" D_UID="3_53" D_VALUE="Accumulator4    "/>
+		<item D_LABEL="Int Input 5 Pulse Accm Label" D_REF="" D_UID="3_54" D_VALUE="Accumulator5    "/>
+		<item D_LABEL="Int Input 6 Pulse Accm Label" D_REF="" D_UID="3_55" D_VALUE="Accumulator6    "/>
+		<item D_LABEL="Int Input 7 Pulse Accm Label" D_REF="" D_UID="3_56" D_VALUE="Accumulator7    "/>
+		<item D_LABEL="Int Input 8 Pulse Accm Label" D_REF="" D_UID="3_57" D_VALUE="Accumulator8    "/>
+		<item D_LABEL="Int Input Pulse Aggr 1 Label" D_REF="" D_UID="3_58" D_VALUE="Aggregator 1    "/>
+		<item D_LABEL="Int Input Pulse Aggr 2 Label" D_REF="" D_UID="3_59" D_VALUE="Aggregator 2    "/>
+		<item D_LABEL="Int Input Pulse Aggr 3 Label" D_REF="" D_UID="3_60" D_VALUE="Aggregator 3    "/>
+		<item D_LABEL="Int Input Pulse Aggr 4 Label" D_REF="" D_UID="3_61" D_VALUE="Aggregator 4    "/>
+	</DEVICE_3>
+
+<DEVICE_4>
+<DEV_NAME>N/A</DEV_NAME>
+<DEV_TYPE/>
+<DEV_PARENT>1</DEV_PARENT>
+<DEV_INFO_STATUS>0</DEV_INFO_STATUS>
+<item D_LABEL="Input 1" D_REF="" D_UID="4_1" D_VALUE="1"/>
+<item D_LABEL="Input 2" D_REF="" D_UID="4_2" D_VALUE="1"/>
+<item D_LABEL="Input 3" D_REF="" D_UID="4_3" D_VALUE="1"/>
+<item D_LABEL="Input 4" D_REF="" D_UID="4_4" D_VALUE="1"/>
+<item D_LABEL="Input 5" D_REF="" D_UID="4_5" D_VALUE="1"/>
+<item D_LABEL="Input 6" D_REF="" D_UID="4_6" D_VALUE="1"/>
+<item D_LABEL="Input 7" D_REF="" D_UID="4_7" D_VALUE="1"/>
+<item D_LABEL="Input 8" D_REF="" D_UID="4_8" D_VALUE="1"/>
+<item D_LABEL="Input 1" D_REF="" D_UID="4_9" D_VALUE="Open            "/>
+<item D_LABEL="Input 2" D_REF="" D_UID="4_10" D_VALUE="Open            "/>
+<item D_LABEL="Input 3" D_REF="" D_UID="4_11" D_VALUE="Open            "/>
+<item D_LABEL="Input 4" D_REF="" D_UID="4_12" D_VALUE="Open            "/>
+<item D_LABEL="Input 5" D_REF="" D_UID="4_13" D_VALUE="Open            "/>
+<item D_LABEL="Input 6" D_REF="" D_UID="4_14" D_VALUE="Open            "/>
+<item D_LABEL="Input 7" D_REF="" D_UID="4_15" D_VALUE="Open            "/>
+<item D_LABEL="Input 8" D_REF="" D_UID="4_16" D_VALUE="Open            "/>
+<item D_LABEL="Input 1 Label" D_REF="" D_UID="4_17" D_VALUE="HS_Input 1      "/>
+<item D_LABEL="Input 2 Label" D_REF="" D_UID="4_18" D_VALUE="HS_Input 2      "/>
+<item D_LABEL="Input 3 Label" D_REF="" D_UID="4_19" D_VALUE="HS_Input 3      "/>
+<item D_LABEL="Input 4 Label" D_REF="" D_UID="4_20" D_VALUE="HS_Input 4      "/>
+<item D_LABEL="Input 5 Label" D_REF="" D_UID="4_21" D_VALUE="HS_Input 5      "/>
+<item D_LABEL="Input 6 Label" D_REF="" D_UID="4_22" D_VALUE="HS_Input 6      "/>
+<item D_LABEL="Input 7 Label" D_REF="" D_UID="4_23" D_VALUE="HS_Input 7      "/>
+<item D_LABEL="Input 8 Label" D_REF="" D_UID="4_24" D_VALUE="HS_Input 8      "/>
+<item D_LABEL="Input 1 Normal" D_REF="" D_UID="4_25" D_VALUE="65279"/>
+<item D_LABEL="Input 2 Normal" D_REF="" D_UID="4_26" D_VALUE="65279"/>
+<item D_LABEL="Input 3 Normal" D_REF="" D_UID="4_27" D_VALUE="65279"/>
+<item D_LABEL="Input 4 Normal" D_REF="" D_UID="4_28" D_VALUE="65279"/>
+<item D_LABEL="Input 5 Normal" D_REF="" D_UID="4_29" D_VALUE="65279"/>
+<item D_LABEL="Input 6 Normal" D_REF="" D_UID="4_30" D_VALUE="65279"/>
+<item D_LABEL="Input 7 Normal" D_REF="" D_UID="4_31" D_VALUE="65279"/>
+<item D_LABEL="Input 8 Normal" D_REF="" D_UID="4_32" D_VALUE="65279"/>
+</DEVICE_4>
+
+<DEVICE_5>
+<DEV_NAME>N/A</DEV_NAME>
+<DEV_TYPE/>
+<DEV_PARENT>1</DEV_PARENT>
+<DEV_INFO_STATUS>0</DEV_INFO_STATUS>
+<item D_LABEL="%THD Va" D_REF="" D_UID="5_1" D_VALUE="9.10%"/>
+<item D_LABEL="%THD Vb" D_REF="" D_UID="5_2" D_VALUE="9.10%"/>
+<item D_LABEL="%THD Vc" D_REF="" D_UID="5_3" D_VALUE="0.00%"/>
+<item D_LABEL="%THD Ia" D_REF="" D_UID="5_4" D_VALUE="2.68%"/>
+<item D_LABEL="%THD Ib" D_REF="" D_UID="5_5" D_VALUE="2.70%"/>
+<item D_LABEL="%THD Ic" D_REF="" D_UID="5_6" D_VALUE="2.64%"/>
+<item D_LABEL="Va Harm #1 Mag" D_REF="" D_UID="5_7" D_VALUE="100.00%"/>
+<item D_LABEL="Va Harm #3 Mag" D_REF="" D_UID="5_8" D_VALUE="4.40%"/>
+<item D_LABEL="Va Harm #5 Mag" D_REF="" D_UID="5_9" D_VALUE="2.18%"/>
+<item D_LABEL="Va Harm #7 Mag" D_REF="" D_UID="5_10" D_VALUE="0.63%"/>
+<item D_LABEL="Va Harm #9 Mag" D_REF="" D_UID="5_11" D_VALUE="0.77%"/>
+<item D_LABEL="Va Harm #11 Mag" D_REF="" D_UID="5_12" D_VALUE="0.39%"/>
+<item D_LABEL="Va Harm #13 Mag" D_REF="" D_UID="5_13" D_VALUE="0.20%"/>
+<item D_LABEL="Va Harm #15 Mag" D_REF="" D_UID="5_14" D_VALUE="0.27%"/>
+<item D_LABEL="Vb Harm #1 Mag" D_REF="" D_UID="5_15" D_VALUE="100.00%"/>
+<item D_LABEL="Vb Harm #3 Mag" D_REF="" D_UID="5_16" D_VALUE="4.39%"/>
+<item D_LABEL="Vb Harm #5 Mag" D_REF="" D_UID="5_17" D_VALUE="2.19%"/>
+<item D_LABEL="Vb Harm #7 Mag" D_REF="" D_UID="5_18" D_VALUE="0.63%"/>
+<item D_LABEL="Vb Harm #9 Mag" D_REF="" D_UID="5_19" D_VALUE="0.77%"/>
+<item D_LABEL="Vb Harm #11 Mag" D_REF="" D_UID="5_20" D_VALUE="0.39%"/>
+<item D_LABEL="Vb Harm #13 Mag" D_REF="" D_UID="5_21" D_VALUE="0.20%"/>
+<item D_LABEL="Vb Harm #15 Mag" D_REF="" D_UID="5_22" D_VALUE="0.27%"/>
+<item D_LABEL="Vc Harm #1 Mag" D_REF="" D_UID="5_23" D_VALUE="0.00%"/>
+<item D_LABEL="Vc Harm #3 Mag" D_REF="" D_UID="5_24" D_VALUE="0.00%"/>
+<item D_LABEL="Vc Harm #5 Mag" D_REF="" D_UID="5_25" D_VALUE="0.00%"/>
+<item D_LABEL="Vc Harm #7 Mag" D_REF="" D_UID="5_26" D_VALUE="0.00%"/>
+<item D_LABEL="Vc Harm #9 Mag" D_REF="" D_UID="5_27" D_VALUE="0.00%"/>
+<item D_LABEL="Vc Harm #11 Mag" D_REF="" D_UID="5_28" D_VALUE="0.00%"/>
+<item D_LABEL="Vc Harm #13 Mag" D_REF="" D_UID="5_29" D_VALUE="0.00%"/>
+<item D_LABEL="Vc Harm #15 Mag" D_REF="" D_UID="5_30" D_VALUE="0.00%"/>
+<item D_LABEL="Ia Harm #1 Mag" D_REF="" D_UID="5_31" D_VALUE="100.00%"/>
+<item D_LABEL="Ia Harm #3 Mag" D_REF="" D_UID="5_32" D_VALUE="1.13%"/>
+<item D_LABEL="Ia Harm #5 Mag" D_REF="" D_UID="5_33" D_VALUE="1.62%"/>
+<item D_LABEL="Ia Harm #7 Mag" D_REF="" D_UID="5_34" D_VALUE="0.42%"/>
+<item D_LABEL="Ia Harm #9 Mag" D_REF="" D_UID="5_35" D_VALUE="0.55%"/>
+<item D_LABEL="Ia Harm #11 Mag" D_REF="" D_UID="5_36" D_VALUE="0.24%"/>
+<item D_LABEL="Ia Harm #13 Mag" D_REF="" D_UID="5_37" D_VALUE="0.15%"/>
+<item D_LABEL="Ia Harm #15 Mag" D_REF="" D_UID="5_38" D_VALUE="0.18%"/>
+<item D_LABEL="Ib Harm #1 Mag" D_REF="" D_UID="5_39" D_VALUE="100.00%"/>
+<item D_LABEL="Ib Harm #3 Mag" D_REF="" D_UID="5_40" D_VALUE="1.09%"/>
+<item D_LABEL="Ib Harm #5 Mag" D_REF="" D_UID="5_41" D_VALUE="1.72%"/>
+<item D_LABEL="Ib Harm #7 Mag" D_REF="" D_UID="5_42" D_VALUE="0.39%"/>
+<item D_LABEL="Ib Harm #9 Mag" D_REF="" D_UID="5_43" D_VALUE="0.59%"/>
+<item D_LABEL="Ib Harm #11 Mag" D_REF="" D_UID="5_44" D_VALUE="0.24%"/>
+<item D_LABEL="Ib Harm #13 Mag" D_REF="" D_UID="5_45" D_VALUE="0.15%"/>
+<item D_LABEL="Ib Harm #15 Mag" D_REF="" D_UID="5_46" D_VALUE="0.19%"/>
+<item D_LABEL="Ic Harm #1 Mag" D_REF="" D_UID="5_47" D_VALUE="100.00%"/>
+<item D_LABEL="Ic Harm #3 Mag" D_REF="" D_UID="5_48" D_VALUE="0.98%"/>
+<item D_LABEL="Ic Harm #5 Mag" D_REF="" D_UID="5_49" D_VALUE="1.57%"/>
+<item D_LABEL="Ic Harm #7 Mag" D_REF="" D_UID="5_50" D_VALUE="0.43%"/>
+<item D_LABEL="Ic Harm #9 Mag" D_REF="" D_UID="5_51" D_VALUE="0.60%"/>
+<item D_LABEL="Ic Harm #11 Mag" D_REF="" D_UID="5_52" D_VALUE="0.23%"/>
+<item D_LABEL="Ic Harm #13 Mag" D_REF="" D_UID="5_53" D_VALUE="0.15%"/>
+<item D_LABEL="Ic Harm #15 Mag" D_REF="" D_UID="5_54" D_VALUE="0.13%"/>
+<item D_LABEL="Last Waveform Date/Time" D_REF="" D_UID="5_55" D_VALUE="2015S08S24 22S34S34"/>
+<item D_LABEL="Last PQ Date/Time" D_REF="" D_UID="5_56" D_VALUE="2015S08S24 22S34S32"/>
+<item D_LABEL="Last Transient Date/Time" D_REF="" D_UID="5_57" D_VALUE="0000S00S00 00S00S00"/>
+<item D_LABEL="Waveform Records" D_REF="" D_UID="5_58" D_VALUE="59"/>
+<item D_LABEL="PQ Records" D_REF="" D_UID="5_59" D_VALUE="34827"/>
+<item D_LABEL="Transient Records" D_REF="" D_UID="5_60" D_VALUE="0"/>
+</DEVICE_5>
+
+<DEVICE_6>
+<DEV_NAME>N/A</DEV_NAME>
+<DEV_TYPE/>
+<DEV_PARENT>1</DEV_PARENT>
+<DEV_INFO_STATUS>0</DEV_INFO_STATUS>
+<item D_LABEL="Inst Freq." D_REF="" D_UID="6_1" D_VALUE="60.029"/>
+<item D_LABEL="Max Freq." D_REF="" D_UID="6_2" D_VALUE="96.000"/>
+<item D_LABEL="Min Freq." D_REF="" D_UID="6_3" D_VALUE="16.932"/>
+</DEVICE_6>
+</EIG_DATA>
