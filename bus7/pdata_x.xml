@@ -7,16 +7,16 @@
 		<DEV_TYPE>Nexus 1500</DEV_TYPE>
 		<DEV_PARENT>0</DEV_PARENT>
 		<DEV_INFO_STATUS>1</DEV_INFO_STATUS>
-		<item D_LABEL="Inst Van" D_REF="" D_UID="1_1" D_VALUE="[-4.18519974]k"/>
-		<item D_LABEL="Inst Vbn" D_REF="" D_UID="1_2" D_VALUE="[-5.02566338]k"/>
-		<item D_LABEL="Inst Vcn" D_REF="" D_UID="1_3" D_VALUE="[-5.50063372]k"/>
+		<item D_LABEL="Inst Van" D_REF="" D_UID="1_1" D_VALUE="[-4.294137]k"/>
+		<item D_LABEL="Inst Vbn" D_REF="" D_UID="1_2" D_VALUE="[-4.53728437]k"/>
+		<item D_LABEL="Inst Vcn" D_REF="" D_UID="1_3" D_VALUE="[-4.60900307]k"/>
 		<item D_LABEL="Inst Vab" D_REF="" D_UID="1_4" D_VALUE="0"/>
 		<item D_LABEL="Inst Vbc" D_REF="" D_UID="1_5" D_VALUE="0"/>
 		<item D_LABEL="Inst Vca" D_REF="" D_UID="1_6" D_VALUE="0"/>
 		<item D_LABEL="Inst Freq." D_REF="" D_UID="1_7" D_VALUE="0"/>
-		<item D_LABEL="Inst Ia" D_REF="" D_UID="1_8" D_VALUE="[-17.08826447]"/>
-		<item D_LABEL="Inst Ib" D_REF="" D_UID="1_9" D_VALUE="[-16.80866051]"/>
-		<item D_LABEL="Inst Ic" D_REF="" D_UID="1_10" D_VALUE="[-16.85990143]"/>
+		<item D_LABEL="Inst Ia" D_REF="" D_UID="1_8" D_VALUE="[-15.31890106]"/>
+		<item D_LABEL="Inst Ib" D_REF="" D_UID="1_9" D_VALUE="[-16.57797623]"/>
+		<item D_LABEL="Inst Ic" D_REF="" D_UID="1_10" D_VALUE="[-16.02287102]"/>
 		<item D_LABEL="Inst Inc" D_REF="" D_UID="1_11" D_VALUE="0"/>
 		<item D_LABEL="Max Van" D_REF="" D_UID="1_12" D_VALUE="0"/>
 		<item D_LABEL="Max Vbn" D_REF="" D_UID="1_13" D_VALUE="0"/>
