@@ -24,8 +24,9 @@ class Bus_protocol(Protocol):
             if bus_data['status'] == 1:
                 bus_data = np.frombuffer(data,dtype=bustype)
                 writexml(bus_data)
-                f = open(base_path + 'data','a+')
+                f = open(base_path + '/data','a+')
                 f.write(str(bus_data) + '\r\n')
+                print bus_data
                 f.close()
     def connectionMade(self):
         pass

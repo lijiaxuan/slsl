@@ -7,3 +7,4 @@ import os
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 bus_data = np.fromfile(BASE_PATH+'/config',dtype=bustype)
 bus_ip = np.fromfile(BASE_PATH+'/ip',dtype=iptype)
+
