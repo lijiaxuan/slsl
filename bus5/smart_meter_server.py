@@ -12,6 +12,7 @@ class SmartMeter_protocol(Protocol):
             if a['bus_id'] == bus_data['bus_id']:
                 bus_data['pd'] = a['pd']
                 bus_data['qd'] = a['qd']
+                print 'smart',bus_data
     def connectionMade(self):
         pass
 class SmartMeter_Factory(ServerFactory):
